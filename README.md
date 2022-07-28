@@ -1,7 +1,10 @@
 # Tools used: 
 React
+
 Openweathermap.org free API for weather data
+
 Tailwind CSS for styling
+
 Toastify for card alerts
 
 # Getting Started with Create React App
